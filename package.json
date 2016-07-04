@@ -32,7 +32,7 @@
   },
   "homepage": "http://disqus-node.pseudobry.com",
   "dependencies": {
-    "bluebird": "^2.9.24",
+    "bluebird": "^3.4.1",
     "commander": "^2.7.1",
     "dependable": "^0.2.5",
     "log": "^1.4.0",
